@@ -1,0 +1,2 @@
+# What is this project about
+Open AI's chatbot ChatGPT has made a colossal impact in the world and has been an assistant/friend/tutor for many. This project uses openai's gpt model (davinci) to create partially the experience of chatgpt. The gui is build on PyQT6 
